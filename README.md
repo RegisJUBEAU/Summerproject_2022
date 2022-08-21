@@ -1,13 +1,11 @@
 # Summerproject_2022
 
-Madame, Monsieur,
+Dear Sir, Dear Madam,
 
-Je suis en 4ième année d'école d'ingénieur à Polytech à Montpellier en France 
-et cet été j'ai réalisé un stage dans l'université de Mälardalen situé à Västeras en Suède.
+I am in my 4th year of engineering school at Polytech in Montpellier in France and this summer I did an internship in the University of Mälardalen located in Västeras in Sweden.
 
-Ce stage a duré environ 3 mois et vous pouvez voir dans ce dossier le résumé de celui-ci.
+This internship lasted about 3 months and you can see in this file the summary of it.
 
-Je vous conseil de lire mon rapport de stage avant de commencer à vous intéresser au code écrit en C++ sur le framework Qt.
+I advise you to read my internship report before starting to be interested in the code written in C++ on the Qt framework.
 
-Je vous souhaite une agréable journée.
-
+I wish you a nice day.
