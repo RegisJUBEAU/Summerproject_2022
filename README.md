@@ -1,6 +1,6 @@
 # Summerproject_2022
 
-Dear Sir, Dear Madam,
+Dear,
 
 I am in my 4th year of engineering school at Polytech in Montpellier, France and this summer I did an internship at the University of Mälardalen located in Västeras, Sweden.
 
